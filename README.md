@@ -3,7 +3,7 @@
 </br>
 **기간** : 2022.12.23 ~ 2022.12.30
 
-[Tooooon 보러가기](https://tooooon.vercel.app/)
+[Ulim Shop 보러가기](https://tooooon.vercel.app/)
 
 <p align="center">
 </p>
