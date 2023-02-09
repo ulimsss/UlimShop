@@ -1,15 +1,7 @@
 const Footer = (): JSX.Element => {
   return (
     <footer className="p-10 footer bg-base-200 text-base-content footer-center">
-      <div className="grid grid-flow-col gap-4">
-        <a
-          href="https://zero-base.co.kr"
-          target="_blank"
-          className="link link-hover"
-        >
-          제로베이스
-        </a>
-      </div>
+      <div className="grid grid-flow-col gap-4"></div>
       <ul className="flex">
         <li>
           <svg
@@ -231,7 +223,7 @@ const Footer = (): JSX.Element => {
       <div>
         <div className="grid grid-flow-col gab-4">
           <a
-            href="https://www.facebook.com/0base"
+            href="https://www.facebook.com"
             target="_blank"
             data-tip="facebook"
             className="tooltip"
@@ -250,7 +242,7 @@ const Footer = (): JSX.Element => {
             </svg>
           </a>
           <a
-            href="https://www.instagram.com/zerobase.official"
+            href="https://www.instagram.com/ulimsss"
             target="_blank"
             data-tip="instagram"
             className="tooltip"
@@ -268,7 +260,7 @@ const Footer = (): JSX.Element => {
             </svg>
           </a>
           <a
-            href="https://github.com/oinochoe"
+            href="https://github.com/ulimsss"
             target="_blank"
             data-tip="github"
             className="tooltip ml-1"
